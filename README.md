@@ -40,3 +40,7 @@ Course repository
   * t-SNE
   * Autoencoders
 * ### Curse of Dimensionality (important)
+* ### PCA
+  * Eigenvectors
+  * Eigenvalues
+  * Covariance Matrix

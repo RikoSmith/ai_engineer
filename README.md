@@ -39,3 +39,4 @@ Course repository
   * PCA
   * t-SNE
   * Autoencoders
+* ### Curse of Dimensionality (important)

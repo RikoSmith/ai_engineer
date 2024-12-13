@@ -44,3 +44,16 @@ Course repository
   * Eigenvectors
   * Eigenvalues
   * Covariance Matrix
+ 
+## **Lesson 9**
+* ### Model Evaluation
+
+## **Lesson 10**
+* ### Model Evaluation 2
+
+## **Lesson 11**
+* ### Docker
+
+## **Lesson 12**
+* ### FastAPI
+* ### Streamlit
